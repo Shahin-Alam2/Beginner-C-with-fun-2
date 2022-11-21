@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524500091 source:c:\users\lenovo\desktop\new folder\s\main.c
+	<stdio.h>
+	<conio.h>
+
